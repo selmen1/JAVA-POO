@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="127.55" y="469.0">com.poocour.Application</node>
+    <node x="0.0" y="279.0">com.poocour.Capitale</node>
+    <node x="108.325" y="0.0">com.poocour.Ville</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.poocour.Capitale" target="com.poocour.Ville">
+      <point x="-62.0" y="-70.5" />
+      <point x="62.0" y="254.0" />
+      <point x="132.325" y="254.0" />
+      <point x="-72.0" y="114.5" />
+    </edge>
+    <edge source="com.poocour.Application" target="com.poocour.Ville">
+      <point x="63.375" y="-25.5" />
+      <point x="269.5" y="254.0" />
+      <point x="276.325" y="254.0" />
+      <point x="72.0" y="114.5" />
+    </edge>
+    <edge source="com.poocour.Application" target="com.poocour.Capitale">
+      <point x="-63.375" y="-25.5" />
+      <point x="142.675" y="445.0" />
+      <point x="62.0" y="445.0" />
+      <point x="-62.0" y="70.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="261.5" />
+  <SelectedNodes>
+    <node>com.poocour.Application</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
