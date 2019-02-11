@@ -1,6 +1,8 @@
 
 package com.poocour;
 
+import java.util.Objects;
+
 public class Ville {
 
     //Stocke le nom de notre ville
@@ -57,5 +59,24 @@ public class Ville {
     //methode descriToi
     public void decrisToi(){
         System.out.println(" ==> "+nomPays+" ==> "+nomVille+" ==> "+nbreHabitants);
+    }
+
+    public String toString(){
+        return "\t"+this.nomVille+" est une ville de "+this.nomPays+", elle comporte : "+this.nbreHabitants;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Ville ville = (Ville) o;
+        return nbreHabitants == ville.nbreHabitants &&
+                Objects.equals(nomVille, ville.nomVille) &&
+                Objects.equals(nomPays, ville.nomPays);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(nomVille, nomPays, nbreHabitants);
     }
 }
