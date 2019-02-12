@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b27564f-8749-4184-9cc2-49a63f533e5e" name="Default Changelist" comment="" />
+    <list default="true" id="6b27564f-8749-4184-9cc2-49a63f533e5e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/poo/src/com/animal/Rintintin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Guerrier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Medecin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Personnage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/poo/com/animal/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/poo/com/animal/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/poo/com/animal/Chien.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/poo/com/animal/Chien.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poo/src/com/animal/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/poo/src/com/animal/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poo/src/com/animal/Chien.java" beforeDir="false" afterPath="$PROJECT_DIR$/poo/src/com/animal/Chien.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,102 +24,94 @@
     <session id="-1758421666">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.54" value="1" />
           <entry key="project.open.time.74" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="15" />
-          <entry key="uml" value="1" />
+          <entry key="java" value="20" />
+          <entry key="uml" value="3" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="15" />
-          <entry key="UML" value="1" />
+          <entry key="JAVA" value="20" />
+          <entry key="UML" value="3" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="298" />
-          <entry key="txt" value="331" />
+          <entry key="java" value="308" />
+          <entry key="txt" value="367" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="298" />
-          <entry key="PLAIN_TEXT" value="331" />
+          <entry key="JAVA" value="308" />
+          <entry key="PLAIN_TEXT" value="367" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/poo/src/com/animal/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+            <state relative-caret-position="17">
+              <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/poo/src/com/animal/Animal.java">
+        <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-              <folding>
-                <element signature="e#128#129#0" expanded="true" />
-                <element signature="e#188#189#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/poo/src/com/animal/Felin.java">
+        <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/Personnage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
-              <folding>
-                <element signature="e#133#134#0" expanded="true" />
-                <element signature="e#199#200#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/poo/src/com/animal/Canin.java">
+        <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/Guerrier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-              <folding>
-                <element signature="e#89#90#0" expanded="true" />
-                <element signature="e#151#152#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/Medecin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/poo/src/com/animal/Loup.java">
+        <entry file="file://$PROJECT_DIR$/poo/src/com/animal/Rintintin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
-              <folding>
-                <element signature="e#224#225#0" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -116,11 +119,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/poo/src/com/animal/Chien.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="493">
+              <caret line="29" column="64" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="64" />
               <folding>
                 <element signature="e#214#215#0" expanded="true" />
                 <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#339#340#0" expanded="true" />
+                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
+                <element signature="e#507#508#0" expanded="true" />
+                <element signature="e#554#555#0" expanded="true" />
+                <element signature="e#625#626#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -131,10 +140,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
               <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-              <folding>
-                <element signature="e#276#277#0" expanded="true" />
-                <element signature="e#347#348#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -142,7 +147,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/poo/src/com/animal/Lion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="238">
               <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
               <folding>
                 <element signature="e#211#212#0" expanded="true" />
@@ -155,12 +160,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/poo/src/com/animal/Tigre.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="e#281#282#0" expanded="true" />
-                <element signature="e#348#349#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="272">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -170,6 +171,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -187,11 +189,12 @@
         <option value="$PROJECT_DIR$/poo/src/com/animal/Animal.java" />
         <option value="$PROJECT_DIR$/poo/src/com/animal/Felin.java" />
         <option value="$PROJECT_DIR$/poo/src/com/animal/Canin.java" />
-        <option value="$PROJECT_DIR$/poo/src/com/animal/Chien.java" />
         <option value="$PROJECT_DIR$/poo/src/com/animal/Lion.java" />
         <option value="$PROJECT_DIR$/poo/src/com/animal/Tigre.java" />
         <option value="$PROJECT_DIR$/poo/src/com/animal/Chat.java" />
         <option value="$PROJECT_DIR$/poo/src/com/animal/Loup.java" />
+        <option value="$PROJECT_DIR$/poo/src/com/animal/Rintintin.java" />
+        <option value="$PROJECT_DIR$/poo/src/com/animal/Chien.java" />
         <option value="$PROJECT_DIR$/poo/src/com/animal/Application.java" />
       </list>
     </option>
@@ -201,6 +204,12 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
@@ -216,6 +225,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -252,13 +262,20 @@
             </path>
             <path>
               <item name="JAVA-POO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA-POO" type="462c0819:PsiDirectoryNode" />
+              <item name="poo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="poocour" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVA-POO" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -268,9 +285,9 @@
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="java-poo" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549929771284" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549973926135" />
     <property name="jdk.selected.JAVA_MODULE" value="10" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/poo/src/com/poocour" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/poo/src/com/animal" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -341,6 +358,7 @@
       <workItem from="1549901598526" duration="367000" />
       <workItem from="1549902018332" duration="11051000" />
       <workItem from="1549921248196" duration="283000" />
+      <workItem from="1549970214646" duration="1599000" />
     </task>
     <task id="LOCAL-00001" summary="Creer les fichiers de programme .">
       <created>1549902511033</created>
@@ -384,17 +402,24 @@
       <option name="project" value="LOCAL" />
       <updated>1549929765202</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Creer le diagramme UML Animal .">
+      <created>1549930931169</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1549930931169</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16565000" />
+    <option name="totallyTimeSpent" value="19425000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -404,7 +429,38 @@
       <window_info id="simpleUML" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.0" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="simpleUML" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -423,7 +479,7 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -436,7 +492,8 @@
     <MESSAGE value="Heritage ." />
     <MESSAGE value="redefinition (equals, hashCode)&#10;Polymorphism ." />
     <MESSAGE value="New package com.animal.&#10;creer les class:&#10;- Application.&#10;- Animal.&#10;- Canin.&#10;- Felin.&#10;- Chat.&#10;- Chien.&#10;- Lion.&#10;- Tigre.&#10;- Loup.&#10;&#10;* Utilise des relation entre les class (Heritage, les class abstact ...)" />
-    <option name="LAST_COMMIT_MESSAGE" value="New package com.animal.&#10;creer les class:&#10;- Application.&#10;- Animal.&#10;- Canin.&#10;- Felin.&#10;- Chat.&#10;- Chien.&#10;- Lion.&#10;- Tigre.&#10;- Loup.&#10;&#10;* Utilise des relation entre les class (Heritage, les class abstact ...)" />
+    <MESSAGE value="Creer le diagramme UML Animal ." />
+    <option name="LAST_COMMIT_MESSAGE" value="Creer le diagramme UML Animal ." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
@@ -454,36 +511,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="81" column="1" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
-          <folding>
-            <element signature="e#2070#2071#0" expanded="true" />
-            <element signature="e#2139#2140#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/poo/src/com/poocour/UML diagramme.uml">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement />
-          <nodes>
-            <node x="" y="">com.poocour.Application</node>
-            <node x="" y="">com.poocour.Capitale</node>
-            <node x="" y="">com.poocour.Ville</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="262.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-            <Category>Methods</Category>
-            <Category>Constructors</Category>
-            <Category>Fields</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
@@ -491,12 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="409">
           <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-          <folding>
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -510,30 +531,132 @@
     <entry file="file://$PROJECT_DIR$/poo/src/com/animal/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-          </folding>
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/src/com/animal/UML Animal.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="0.0" y="335.0">com.animal.Chien</node>
+            <node x="712.0" y="335.0">com.animal.Chat</node>
+            <node x="527.0" y="234.0">com.animal.Felin</node>
+            <node x="182.0" y="335.0">com.animal.Loup</node>
+            <node x="176.5" y="481.0">com.animal.Application</node>
+            <node x="360.0" y="335.0">com.animal.Lion</node>
+            <node x="289.0925925925926" y="0.0">com.animal.Animal</node>
+            <node x="78.2962962962963" y="234.0">com.animal.Canin</node>
+            <node x="534.0" y="335.0">com.animal.Tigre</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.animal.Chien" target="com.animal.Canin">
+              <point x="0.0" y="-48.0" />
+              <point x="81.0" y="310.0" />
+              <point x="121.2962962962963" y="310.0" />
+              <point x="-43.0" y="25.5" />
+            </edge>
+            <edge source="com.animal.Loup" target="com.animal.Canin">
+              <point x="0.0" y="-48.0" />
+              <point x="261.0" y="310.0" />
+              <point x="207.2962962962963" y="310.0" />
+              <point x="43.0" y="25.5" />
+            </edge>
+            <edge source="com.animal.Lion" target="com.animal.Felin">
+              <point x="0.0" y="-48.0" />
+              <point x="437.0" y="310.0" />
+              <point x="555.6666666666666" y="310.0" />
+              <point x="-57.33333333333337" y="25.5" />
+            </edge>
+            <edge source="com.animal.Chat" target="com.animal.Felin">
+              <point x="0.0" y="-48.0" />
+              <point x="790.0" y="310.0" />
+              <point x="670.3333333333334" y="310.0" />
+              <point x="57.33333333333337" y="25.5" />
+            </edge>
+            <edge source="com.animal.Canin" target="com.animal.Animal">
+              <point x="0.0" y="-25.5" />
+              <point x="164.2962962962963" y="209.0" />
+              <point x="332.0925925925926" y="209.0" />
+              <point x="-43.0" y="92.0" />
+            </edge>
+            <edge source="com.animal.Felin" target="com.animal.Animal">
+              <point x="0.0" y="-25.5" />
+              <point x="613.0" y="209.0" />
+              <point x="418.0925925925926" y="209.0" />
+              <point x="43.0" y="92.0" />
+            </edge>
+            <edge source="com.animal.Application" target="com.animal.Loup">
+              <point x="42.25" y="-25.5" />
+              <point x="303.25" y="456.0" />
+              <point x="300.5" y="456.0" />
+              <point x="39.5" y="48.0" />
+            </edge>
+            <edge source="com.animal.Tigre" target="com.animal.Felin">
+              <point x="0.0" y="-48.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="101.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/src/com/poocour/UML diagramme.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="293.0" y="0.0">com.poocour.Application</node>
+            <node x="0.0" y="279.0">com.poocour.Capitale</node>
+            <node x="28.0" y="0.0">com.poocour.Ville</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.poocour.Capitale" target="com.poocour.Ville">
+              <point x="0.0" y="-70.5" />
+              <point x="0.0" y="114.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="231.0" y="210.0" />
+          <SelectedNodes>
+            <node>com.poocour.Application</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/poo/src/com/animal/Felin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
-          <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-          </folding>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/poo/src/com/animal/Canin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="68">
           <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
           <folding>
             <element signature="e#89#90#0" expanded="true" />
@@ -544,7 +667,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/poo/src/com/animal/Loup.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="221">
           <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
           <folding>
             <element signature="e#224#225#0" expanded="true" />
@@ -553,31 +676,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/poo/src/com/animal/Chien.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/poo/src/com/animal/Chat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/poo/src/com/animal/Lion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="238">
           <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
           <folding>
             <element signature="e#211#212#0" expanded="true" />
@@ -588,19 +696,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/poo/src/com/animal/Tigre.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="272">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/src/com/animal/Rintintin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/src/com/animal/Chien.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="64" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="64" />
           <folding>
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/poo/src/com/animal/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        <state relative-caret-position="17">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/Personnage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/Guerrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/Medecin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>
