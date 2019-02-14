@@ -2,7 +2,17 @@ package com.poocour;
 
 public class Application {
     public static void main(String[] args){
-        Ville ville1 = new Ville("Marseille", 123456789, "France");
+        Ville ville1 = null;
+        try {
+            ville1 = new Ville("Marseille", 123456789, "France");
+        } catch (NombreHabitantException e) {
+            e.printStackTrace();
+        } catch (NomVilleException e2) {
+            System.out.println(e2.getMessage());
+        } finally {
+            if (ville1==null){ville1=new Ville();}
+        }
+
         ville1.decrisToi();
         Capitale cap1 = new Capitale();
         cap1.decrisToi();
@@ -20,7 +30,16 @@ public class Application {
         //et le reste des capitales
             for(int i = 0; i < 6; i++){
                 if (i <3){
-                    Ville V = new Ville(tab[i], tab2[i], "france");
+                    Ville V = null;
+                    try {
+                        V = new Ville(tab[i], tab2[i], "france");
+                    } catch (NombreHabitantException e) {
+                        e.printStackTrace();
+                    } catch (NomVilleException e2) {
+                        System.out.println(e2.getMessage());
+                    } finally {
+                        if (V==null){V=new Ville();}
+                    }
                     tableau[i] = V;
                 }
 

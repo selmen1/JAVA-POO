@@ -10,6 +10,10 @@ public class Ville {
     //Stocke le nom du pays de notre ville
     protected String nomPays;
 
+    protected static int nbreInstance,nbreInstanceBis;
+
+    protected int nbreHabitant;
+
     public String getNomVille() {
         return nomVille;
     }
@@ -49,13 +53,21 @@ public class Ville {
     //J'ai ajouté un « p » en première lettre des paramètres.
     //Ce n'est pas une convention, mais ça peut être un bon moyen de les repérer.
     public Ville(String pNom, int pNbre, String pPays)
-    {
-        System.out.println("Création d'une ville avec des paramètres !");
-        nomVille = pNom;
-        nomPays = pPays;
-        nbreHabitants = pNbre;
-    }
+            throws NombreHabitantException, NomVilleException {
+        if(pNbre < 0)
+            throw new NombreHabitantException(pNbre);
+        if(pNom.length() < 3)
+            throw new NomVilleException("le nom de la ville est inférieur à 3 caractères ! nom = " + pNom);
+        else
+        {
+            nbreInstance++;
+            nbreInstanceBis++;
 
+            nomVille = pNom;
+            nomPays = pPays;
+            nbreHabitant = pNbre;
+        }
+    }
     //methode descriToi
     public void decrisToi(){
         System.out.println(" ==> "+nomPays+" ==> "+nomVille+" ==> "+nbreHabitants);

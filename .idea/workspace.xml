@@ -36,7 +36,11 @@
           <entry key="project.open.time.54" value="1" />
           <entry key="project.open.time.74" value="2" />
           <entry key="project.open.time.96" value="1" />
+<<<<<<< HEAD
           <entry key="project.opened" value="7" />
+=======
+          <entry key="project.opened" value="6" />
+>>>>>>> b2
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -81,8 +85,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/poo/src/com/poocour/Ville.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="697">
               <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+=======
+            <state relative-caret-position="85">
+              <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+>>>>>>> b2
             </state>
           </provider>
         </entry>
@@ -90,7 +99,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/poo/src/com/poocour/NomVilleException.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="51">
+=======
+            <state relative-caret-position="85">
+>>>>>>> b2
               <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
               <folding>
                 <element signature="e#117#118#0" expanded="true" />
@@ -103,8 +116,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/poo/src/com/poocour/Application.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="986">
               <caret line="58" selection-start-line="58" selection-end-line="58" />
+=======
+            <state relative-caret-position="528">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+>>>>>>> b2
             </state>
           </provider>
         </entry>
@@ -191,6 +209,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,7 +251,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -347,7 +365,10 @@
       <workItem from="1549970214646" duration="3411000" />
       <workItem from="1550092144011" duration="1517000" />
       <workItem from="1550146483531" duration="10338000" />
+<<<<<<< HEAD
       <workItem from="1550170334581" duration="73000" />
+=======
+>>>>>>> b2
     </task>
     <task id="LOCAL-00001" summary="Creer les fichiers de programme .">
       <created>1549902511033</created>
@@ -465,13 +486,21 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="33165000" />
+=======
+    <option name="totallyTimeSpent" value="33092000" />
+>>>>>>> b2
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25869894" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2549168" />
+>>>>>>> b2
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -781,7 +810,11 @@
           </nodes>
           <notes />
           <edges />
+<<<<<<< HEAD
           <settings layout="Hierarchic Group" zoom="0.9665952890792291" x="427.0" y="313.0" />
+=======
+          <settings layout="Hierarchic Group" zoom="0.9665952890792291" x="427.0" y="313.18608772707137" />
+>>>>>>> b2
           <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
@@ -795,9 +828,21 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/comportement/Pacifiste.java" />
     <entry file="file://$PROJECT_DIR$/poo/src/com/comportement/EspritCombatif.java">
       <provider selected="true" editor-type-id="text-editor">
+=======
+    <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/comportement/Pacifiste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/src/com/comportement/EspritCombatif.java">
+      <provider selected="true" editor-type-id="text-editor">
+>>>>>>> b2
         <state relative-caret-position="51">
           <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
         </state>
@@ -973,10 +1018,39 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/poo/src/com/poocour/NomVilleException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/src/com/poocour/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/src/com/poocour/Ville.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> b2
     <entry file="file://$PROJECT_DIR$/poo/src/com/poocour/NombreHabitantException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+<<<<<<< HEAD
         </state>
       </provider>
     </entry>
@@ -1002,6 +1076,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="986">
           <caret line="58" selection-start-line="58" selection-end-line="58" />
+=======
+>>>>>>> b2
         </state>
       </provider>
     </entry>
