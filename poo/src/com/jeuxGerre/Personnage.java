@@ -2,9 +2,29 @@ package com.jeuxGerre;
 
 public abstract class Personnage {
 
-    //Méthode de déplacement de personnage
-    public abstract void seDeplacer();
+    protected String armes = "", chaussure = "", sacDeSoin = "";
 
-    //Méthode que les combattants utilisent
-    public abstract void combattre();
+    public void seDeplacer(){
+        System.out.println("Je me déplace à pied.");
+    }
+
+    public void combattre(){
+        System.out.println("Je ne combats PAS !");
+    }
+
+    public void soigner(){
+        System.out.println("Je ne soigne pas.");
+    }
+
+    protected void setArmes(String armes) {
+        this.armes = armes;
+    }
+
+    protected void setChaussure(String chaussure) {
+        this.chaussure = chaussure;
+    }
+
+    protected void setSacDeSoin(String sacDeSoin) {
+        this.sacDeSoin = sacDeSoin;
+    }
 }
