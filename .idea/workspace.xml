@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b27564f-8749-4184-9cc2-49a63f533e5e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/poo/src/com/poocour/NomVilleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo/src/com/poocour/NombreHabitantException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Chirurgien.java" beforeDir="false" afterPath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Chirurgien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Civil.java" beforeDir="false" afterPath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Civil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Guerrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Guerrier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Medecin.java" beforeDir="false" afterPath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Medecin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Personnage.java" beforeDir="false" afterPath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Personnage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Sniper.java" beforeDir="false" afterPath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Sniper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poo/src/com/poocour/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/poo/src/com/poocour/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poo/src/com/poocour/Ville.java" beforeDir="false" afterPath="$PROJECT_DIR$/poo/src/com/poocour/Ville.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,129 +44,70 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="43" />
+          <entry key="java" value="49" />
           <entry key="uml" value="5" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="43" />
+          <entry key="JAVA" value="49" />
           <entry key="UML" value="5" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="414" />
-          <entry key="txt" value="689" />
+          <entry key="java" value="525" />
+          <entry key="txt" value="762" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="414" />
-          <entry key="PLAIN_TEXT" value="689" />
+          <entry key="JAVA" value="525" />
+          <entry key="PLAIN_TEXT" value="762" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/Personnage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
-              <folding>
-                <element signature="e#1233#1234#0" expanded="true" />
-                <element signature="e#1285#1286#0" expanded="true" />
-                <element signature="e#1363#1364#0" expanded="true" />
-                <element signature="e#1395#1396#0" expanded="true" />
-                <element signature="e#1501#1502#0" expanded="true" />
-                <element signature="e#1547#1548#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/Application.java">
+        <entry file="file://$PROJECT_DIR$/poo/src/com/poocour/NombreHabitantException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            <state relative-caret-position="170">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/Guerrier.java">
+        <entry file="file://$PROJECT_DIR$/poo/src/com/poocour/Ville.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="85">
+              <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/poo/src/com/poocour/NomVilleException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
               <folding>
-                <element signature="e#120#121#0" expanded="true" />
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#291#292#0" expanded="true" />
+                <element signature="e#117#118#0" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/Civil.java">
+        <entry file="file://$PROJECT_DIR$/poo/src/com/poocour/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-              <folding>
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/Medecin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="26" selection-start-line="2" selection-end-line="2" selection-end-column="26" />
-              <folding>
-                <element signature="e#118#119#0" expanded="true" />
-                <element signature="e#163#164#0" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#275#276#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/Sniper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-              <folding>
-                <element signature="e#112#113#0" expanded="true" />
-                <element signature="e#170#171#0" expanded="true" />
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#281#282#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/Chirurgien.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-              <folding>
-                <element signature="e#119#120#0" expanded="true" />
-                <element signature="e#164#165#0" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="528">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
             </state>
           </provider>
         </entry>
@@ -192,8 +130,6 @@
       <list>
         <option value="$PROJECT_DIR$/POO/src/Application.java" />
         <option value="$PROJECT_DIR$/poo/src/com/poocour/Capitale.java" />
-        <option value="$PROJECT_DIR$/poo/src/com/poocour/Application.java" />
-        <option value="$PROJECT_DIR$/poo/src/com/poocour/Ville.java" />
         <option value="$PROJECT_DIR$/poo/src/com/animal/Animal.java" />
         <option value="$PROJECT_DIR$/poo/src/com/animal/Felin.java" />
         <option value="$PROJECT_DIR$/poo/src/com/animal/Canin.java" />
@@ -224,6 +160,10 @@
         <option value="$PROJECT_DIR$/poo/src/com/jeuxGerre/Sniper.java" />
         <option value="$PROJECT_DIR$/poo/src/com/jeuxGerre/Chirurgien.java" />
         <option value="$PROJECT_DIR$/poo/src/com/jeuxGerre/Application.java" />
+        <option value="$PROJECT_DIR$/poo/src/com/poocour/NombreHabitantException.java" />
+        <option value="$PROJECT_DIR$/poo/src/com/poocour/NomVilleException.java" />
+        <option value="$PROJECT_DIR$/poo/src/com/poocour/Ville.java" />
+        <option value="$PROJECT_DIR$/poo/src/com/poocour/Application.java" />
       </list>
     </option>
   </component>
@@ -286,7 +226,7 @@
               <item name="poo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jeuxGerre" type="462c0819:PsiDirectoryNode" />
+              <item name="poocour" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JAVA-POO" type="b2602c69:ProjectViewProjectNode" />
@@ -305,7 +245,7 @@
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="java-poo" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550152037949" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550161799462" />
     <property name="jdk.selected.JAVA_MODULE" value="10" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/poo/src/com/jeuxGerre" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -409,7 +349,7 @@
       <workItem from="1549921248196" duration="283000" />
       <workItem from="1549970214646" duration="3411000" />
       <workItem from="1550092144011" duration="1517000" />
-      <workItem from="1550146483531" duration="5168000" />
+      <workItem from="1550146483531" duration="9597000" />
     </task>
     <task id="LOCAL-00001" summary="Creer les fichiers de programme .">
       <created>1549902511033</created>
@@ -509,17 +449,24 @@
       <option name="project" value="LOCAL" />
       <updated>1550150794263</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Utiliser le package comcomportement dans le package jeuxGuerre.">
+      <created>1550152197181</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1550152197181</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27922000" />
+    <option name="totallyTimeSpent" value="32351000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2549168" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2549168" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -529,7 +476,7 @@
       <window_info id="simpleUML" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -550,7 +497,7 @@
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.3207262" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2549168" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -559,7 +506,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="simpleUML" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -577,8 +524,8 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32980332" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3207262" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -600,7 +547,8 @@
     <MESSAGE value="Ajouter des carractéristiques por les personnages." />
     <MESSAGE value="nouvel package comportement.&#10;3 interface à implementé." />
     <MESSAGE value="- Implémentations de l'interface EspritCombatif.&#10;- Implémentations de l'interface Deplacement.&#10;- Implémentations de l'interface Soin." />
-    <option name="LAST_COMMIT_MESSAGE" value="- Implémentations de l'interface EspritCombatif.&#10;- Implémentations de l'interface Deplacement.&#10;- Implémentations de l'interface Soin." />
+    <MESSAGE value="Utiliser le package comcomportement dans le package jeuxGuerre." />
+    <option name="LAST_COMMIT_MESSAGE" value="Utiliser le package comcomportement dans le package jeuxGuerre." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
@@ -614,24 +562,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/poo/src/com/poocour/Ville.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="81" column="1" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/poo/src/com/poocour/Capitale.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="409">
           <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/poo/src/com/poocour/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -876,13 +810,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/poo/src/com/comportement/Soin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/poo/src/com/comportement/Pacifiste.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -930,13 +857,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/poo/src/com/comportement/Operation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/poo/src/com/comportement/AucunSoin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -951,21 +871,6 @@
           <folding>
             <element signature="e#114#115#0" expanded="true" />
             <element signature="e#178#179#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/Personnage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="e#1233#1234#0" expanded="true" />
-            <element signature="e#1285#1286#0" expanded="true" />
-            <element signature="e#1363#1364#0" expanded="true" />
-            <element signature="e#1395#1396#0" expanded="true" />
-            <element signature="e#1501#1502#0" expanded="true" />
-            <element signature="e#1547#1548#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1033,10 +938,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/poo/src/com/comportement/Operation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/Personnage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#1233#1234#0" expanded="true" />
+            <element signature="e#1285#1286#0" expanded="true" />
+            <element signature="e#1363#1364#0" expanded="true" />
+            <element signature="e#1395#1396#0" expanded="true" />
+            <element signature="e#1501#1502#0" expanded="true" />
+            <element signature="e#1547#1548#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        <state relative-caret-position="208">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/src/com/comportement/Soin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/src/com/poocour/NomVilleException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/src/com/poocour/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/src/com/poocour/Ville.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/src/com/poocour/NombreHabitantException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
