@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b27564f-8749-4184-9cc2-49a63f533e5e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/poo/src/com/comportement/EspritCombatif.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Chirurgien.java" beforeDir="false" afterPath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Chirurgien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Civil.java" beforeDir="false" afterPath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Civil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Guerrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Guerrier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Medecin.java" beforeDir="false" afterPath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Medecin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Personnage.java" beforeDir="false" afterPath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Personnage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Sniper.java" beforeDir="false" afterPath="$PROJECT_DIR$/poo/src/com/jeuxGerre/Sniper.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,6 +11,20 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1758421666">
@@ -33,170 +41,39 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="23" />
+          <entry key="java" value="26" />
           <entry key="uml" value="5" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="23" />
+          <entry key="JAVA" value="26" />
           <entry key="UML" value="5" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="315" />
-          <entry key="txt" value="523" />
+          <entry key="java" value="321" />
+          <entry key="txt" value="617" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="315" />
-          <entry key="PLAIN_TEXT" value="523" />
+          <entry key="JAVA" value="321" />
+          <entry key="PLAIN_TEXT" value="617" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/UML-JeuxGuerre.uml">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement />
-              <nodes>
-                <node x="0.0" y="396.0">com.jeuxGerre.Application</node>
-                <node x="317.0" y="0.0">com.jeuxGerre.Personnage</node>
-                <node x="0.0" y="289.0">com.jeuxGerre.Chirurgien</node>
-                <node x="518.0" y="289.0">com.jeuxGerre.Civil</node>
-                <node x="162.0" y="278.0">com.jeuxGerre.Medecin</node>
-                <node x="340.0" y="289.0">com.jeuxGerre.Sniper</node>
-                <node x="696.0" y="289.0">com.jeuxGerre.Guerrier</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="com.jeuxGerre.Chirurgien" target="com.jeuxGerre.Personnage">
-                  <point x="0.0" y="-25.5" />
-                  <point x="71.0" y="248.0" />
-                  <point x="337.4" y="248.0" />
-                  <point x="-81.60000000000002" y="114.0" />
-                </edge>
-                <edge source="com.jeuxGerre.Medecin" target="com.jeuxGerre.Personnage">
-                  <point x="0.0" y="-36.5" />
-                  <point x="241.0" y="258.0" />
-                  <point x="378.2" y="258.0" />
-                  <point x="-40.80000000000001" y="114.0" />
-                </edge>
-                <edge source="com.jeuxGerre.Sniper" target="com.jeuxGerre.Personnage">
-                  <point x="0.0" y="-25.5" />
-                  <point x="0.0" y="114.0" />
-                </edge>
-                <edge source="com.jeuxGerre.Guerrier" target="com.jeuxGerre.Personnage">
-                  <point x="0.0" y="-25.5" />
-                  <point x="775.0" y="248.0" />
-                  <point x="500.6" y="248.0" />
-                  <point x="81.60000000000002" y="114.0" />
-                </edge>
-                <edge source="com.jeuxGerre.Civil" target="com.jeuxGerre.Personnage">
-                  <point x="0.0" y="-25.5" />
-                  <point x="597.0" y="258.0" />
-                  <point x="459.8" y="258.0" />
-                  <point x="40.80000000000001" y="114.0" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="0.9665952890792291" x="427.0" y="313.18608772707137" />
-              <SelectedNodes>
-                <node>com.jeuxGerre.Application</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>Fields</Category>
-                <Category>Constructors</Category>
-                <Category>Methods</Category>
-                <Category>Properties</Category>
-                <Category>Inner Classes</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/Personnage.java">
+        <entry file="file://$PROJECT_DIR$/poo/src/com/comportement/EspritCombatif.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-              <folding>
-                <element signature="e#154#155#0" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#243#244#0" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#383#384#0" expanded="true" />
-                <element signature="e#428#429#0" expanded="true" />
-                <element signature="e#462#463#0" expanded="true" />
-                <element signature="e#515#516#0" expanded="true" />
-                <element signature="e#557#558#0" expanded="true" />
-                <element signature="e#610#611#0" expanded="true" />
-                <element signature="e#652#653#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/Guerrier.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/Medecin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/Civil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/Chirurgien.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/Sniper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="51">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -206,8 +83,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -236,8 +113,11 @@
         <option value="$PROJECT_DIR$/poo/src/com/jeuxGerre/Sniper.java" />
         <option value="$PROJECT_DIR$/poo/src/com/jeuxGerre/Civil.java" />
         <option value="$PROJECT_DIR$/poo/src/com/jeuxGerre/Medecin.java" />
-        <option value="$PROJECT_DIR$/poo/src/com/jeuxGerre/Chirurgien.java" />
         <option value="$PROJECT_DIR$/poo/src/com/jeuxGerre/Application.java" />
+        <option value="$PROJECT_DIR$/poo/src/com/jeuxGerre/comportement/Pacifiste.java" />
+        <option value="$PROJECT_DIR$/poo/src/com/sdz/jeuxGerre/Chirurgien.java" />
+        <option value="$PROJECT_DIR$/poo/src/com/jeuxGerre/Chirurgien.java" />
+        <option value="$PROJECT_DIR$/poo/src/com/comportement/EspritCombatif.java" />
       </list>
     </option>
   </component>
@@ -296,22 +176,6 @@
             </path>
             <path>
               <item name="JAVA-POO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JAVA-POO" type="462c0819:PsiDirectoryNode" />
-              <item name="poo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jeuxGerre" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JAVA-POO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JAVA-POO" type="462c0819:PsiDirectoryNode" />
-              <item name="poo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="poocour" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JAVA-POO" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -327,7 +191,7 @@
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="java-poo" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550147797530" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550150078675" />
     <property name="jdk.selected.JAVA_MODULE" value="10" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/poo/src/com/jeuxGerre" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -363,12 +227,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Application (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jeuxGerre.Application" />
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.poocour.Application" />
       <module name="poo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jeuxGerre.*" />
+          <option name="PATTERN" value="com.poocour.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -377,11 +241,11 @@
       </method>
     </configuration>
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.poocour.Application" />
+      <option name="MAIN_CLASS_NAME" value="com.sdz.jeuxGerre.Application" />
       <module name="poo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.poocour.*" />
+          <option name="PATTERN" value="com.jeuxGerre.lmlk.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -417,7 +281,7 @@
       <workItem from="1549921248196" duration="283000" />
       <workItem from="1549970214646" duration="3411000" />
       <workItem from="1550092144011" duration="1517000" />
-      <workItem from="1550146483531" duration="1709000" />
+      <workItem from="1550146483531" duration="3193000" />
     </task>
     <task id="LOCAL-00001" summary="Creer les fichiers de programme .">
       <created>1549902511033</created>
@@ -496,14 +360,22 @@
       <option name="project" value="LOCAL" />
       <updated>1549975012736</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Ajouter des carractéristiques por les personnages.">
+      <created>1550148371196</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1550148371197</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24463000" />
+    <option name="totallyTimeSpent" value="25947000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2549168" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -514,8 +386,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="simpleUML" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -583,7 +455,8 @@
     <MESSAGE value="Nouvel package com.jeux Guerre .&#10;ajouter les class." />
     <MESSAGE value="- Structurerles cless.&#10;- Ajouterle diagramme UML" />
     <MESSAGE value="test Application ." />
-    <option name="LAST_COMMIT_MESSAGE" value="test Application ." />
+    <MESSAGE value="Ajouter des carractéristiques por les personnages." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajouter des carractéristiques por les personnages." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
@@ -857,10 +730,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/Chirurgien.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+    <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/UML-JeuxGuerre.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">com.jeuxGerre.Application</node>
+            <node x="" y="">com.jeuxGerre.Personnage</node>
+            <node x="" y="">com.jeuxGerre.Chirurgien</node>
+            <node x="" y="">com.jeuxGerre.Civil</node>
+            <node x="" y="">com.jeuxGerre.Medecin</node>
+            <node x="" y="">com.jeuxGerre.Sniper</node>
+            <node x="" y="">com.jeuxGerre.Guerrier</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9665952890792291" x="427.0" y="313.18608772707137" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
@@ -871,64 +767,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/UML-JeuxGuerre.uml">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
+    <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/comportement/Pacifiste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/src/com/jeuxGerre/Chirurgien.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
-          <ID>JAVA</ID>
-          <OriginalElement />
-          <nodes>
-            <node x="0.0" y="396.0">com.jeuxGerre.Application</node>
-            <node x="317.0" y="0.0">com.jeuxGerre.Personnage</node>
-            <node x="0.0" y="289.0">com.jeuxGerre.Chirurgien</node>
-            <node x="518.0" y="289.0">com.jeuxGerre.Civil</node>
-            <node x="162.0" y="278.0">com.jeuxGerre.Medecin</node>
-            <node x="340.0" y="289.0">com.jeuxGerre.Sniper</node>
-            <node x="696.0" y="289.0">com.jeuxGerre.Guerrier</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.jeuxGerre.Chirurgien" target="com.jeuxGerre.Personnage">
-              <point x="0.0" y="-25.5" />
-              <point x="71.0" y="248.0" />
-              <point x="337.4" y="248.0" />
-              <point x="-81.60000000000002" y="114.0" />
-            </edge>
-            <edge source="com.jeuxGerre.Medecin" target="com.jeuxGerre.Personnage">
-              <point x="0.0" y="-36.5" />
-              <point x="241.0" y="258.0" />
-              <point x="378.2" y="258.0" />
-              <point x="-40.80000000000001" y="114.0" />
-            </edge>
-            <edge source="com.jeuxGerre.Sniper" target="com.jeuxGerre.Personnage">
-              <point x="0.0" y="-25.5" />
-              <point x="0.0" y="114.0" />
-            </edge>
-            <edge source="com.jeuxGerre.Guerrier" target="com.jeuxGerre.Personnage">
-              <point x="0.0" y="-25.5" />
-              <point x="775.0" y="248.0" />
-              <point x="500.6" y="248.0" />
-              <point x="81.60000000000002" y="114.0" />
-            </edge>
-            <edge source="com.jeuxGerre.Civil" target="com.jeuxGerre.Personnage">
-              <point x="0.0" y="-25.5" />
-              <point x="597.0" y="258.0" />
-              <point x="459.8" y="258.0" />
-              <point x="40.80000000000001" y="114.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.9665952890792291" x="427.0" y="313.18608772707137" />
-          <SelectedNodes>
-            <node>com.jeuxGerre.Application</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
+          <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poo/src/com/comportement/EspritCombatif.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
